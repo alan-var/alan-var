@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan Varghese</h1>
 <h3 align="center">An ardent coder with a passion for all facets of programming.</h3>
-<IMG align="right" alt="coding" width="400" src="https://drive.google.com/file/d/18nAlsxAuZvEPdIXo1QlG_7labgsnqI1Z/view?usp=share_link">
+<IMG align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan-var&label=Profile%20views&color=0e75b6&style=flat" alt="alan-var" /> </p>
 
