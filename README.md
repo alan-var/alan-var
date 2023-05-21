@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Pv2YHn8bRtLacU-wjk3deBPagx2-Br4V/edit?usp=share_link&ouid=109731802182210276328&rtpof=true&sd=true](https://docs.google.com/document/d/1Pv2YHn8bRtLacU-wjk3deBPagx2-Br4V/edit?usp=share_link&ouid=109731802182210276328&rtpof=true&sd=true)
 
-- ⚡ Fun fact **Music lover by day, coding maestro by night, combining passions for rhythm and algorithms.**
+- ⚡ Fun fact ** I am a music lover by day, coding maestro by night, combining passions for rhythm and algorithms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
