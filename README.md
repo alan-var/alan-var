@@ -7,14 +7,14 @@
 
 - 📫 How to reach me **alanvar2472@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Pv2YHn8bRtLacU-wjk3deBPagx2-Br4V/edit?usp=share_link&ouid=109731802182210276328&rtpof=true&sd=true](https://docs.google.com/document/d/1Pv2YHn8bRtLacU-wjk3deBPagx2-Br4V/edit?usp=share_link&ouid=109731802182210276328&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15NbUxAJZyvGRqPVF_VU-sAPj4xZtUigu/view?usp=sharing](https://drive.google.com/file/d/15NbUxAJZyvGRqPVF_VU-sAPj4xZtUigu/view?usp=sharing)
 
 - ⚡ Fun fact ** I am a music lover by day, coding maestro by night, combining passions for rhythm and algorithms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alannnnhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alannnnhh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alan varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan varghese" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alan-varghese-0408b4259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan varghese" height="30" width="40" /></a>
 <a href="https://instagram.com/sachu_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachu_._" height="30" width="40" /></a>
 </p>
 
