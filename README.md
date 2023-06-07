@@ -1,5 +1,5 @@
 ![logo](https://github.com/alan-var/alan-var/blob/main/My%20project-1%20(1).jpg)
-<h1 align="center">Hello 👋, I'm Alan Varghese</h1>
+<h1 align="center">Hi 👋, I'm Alan Varghese</h1>
 <h3 align="center">An ardent coder with a passion for all facets of programming.</h3>
 <IMG align="right" alt="coding" width="380" height="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGEyZDgxM2Y0YTYzYTk4ZmE0OGI4ZmJiYTUxOTgzNjMzY2M5ZWZjYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/AGXx2ZEOCw8avI2AQH/giphy.gif">
 
