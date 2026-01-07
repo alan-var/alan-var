@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alanvar2472@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15NbUxAJZyvGRqPVF_VU-sAPj4xZtUigu/view?usp=sharing](https://drive.google.com/file/d/15NbUxAJZyvGRqPVF_VU-sAPj4xZtUigu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15NbUxAJZyvGRqPVF_VU-sAPj4xZtUigu/view?usp=sharing](https://drive.google.com/file/d/1BDmEqBpDfE58p3cTpcH5g05fMq2VWdwj/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -28,7 +28,3 @@
   <li><b>Cloud & DevOps:</b> AWS, Azure, Docker, Kubernetes, CI/CD, Linux</li>
   <li><b>Tools:</b> Git, GitHub, Jira, Postman</li>
 </ul>
-
-<p>&nbsp;<img align="center" width="490" src="https://github-readme-stats.vercel.app/api?username=alan-var&show_icons=true&locale=en" alt="alan-var" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alan-var&" alt="alan-var" /></p>
